@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "111188888888",
+        "service_id": "11",
+        "title": "Potato Chips",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/Thin-crispy-potato-chips.jpg",
+        "price": "36",
+        "description": "It is not surprising to see that potato chips made the list. Everywhere I go, parties, etc. I see potato chips. At the supermarket, there are rows and rows of chips and several different flavors of potato chips.According to Statista in 2020, 284.37 million Americans ate potato chips. That is an insane amount of potato chips. Do you want to know another country that eats a lot of potato chips? France! Who knew? Potato chips originated in the United States, but happy to see the people of France love them almost as much as we do here in the US.Want to learn how to make thin crispy potato chips at home? Follow this awesome potato chips recipe. Or maybe you want something a little healthier? Try this sweet potato chips recipe."
+       
+    },
+    {
+        "_id": "222288888888",
+        "service_id": "22",
+        "title": "Donuts",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2020/04/homemade-glazed-donuts.jpg",
+        "price": "40",
+        "description": "Whether you spell them donuts or doughnuts, it doesn’t matter, these tasty pastries are number 9 on this the most popular foods in America list.Ever since I was a little kid, I enjoyed eating donuts. Walking to the local donut shop and picking up a few, or a dozen, haha. Such an amazing thing to eat for breakfast or a treat throughout the day. Here in the United States, it is easy to find a donut shop, Krispy Kreme, Winchells, Dunkin, etc.Want to make your own Krispy-Kreme style donuts at home? Check out this homemade glazed donuts recipe. Or maybe you love chocolate cake donuts or pumpkin cake donuts? I have recipes for those too"
+        
+    },
+    {
+        "_id": "333388888888",
+        "service_id": "33",
+        "title": "Chicken Tenders",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2020/07/Baked-Chicken-Nuggets.jpg",
+        "price": "50",
+        "description": "Next up on the list number 7, chicken tenders. Whether you get McDonalds chicken McNuggets, Chick-fil-A nuggets, or many other varieties, Americans love their chicken tenders.With that said according to this article that may not always be the case. There appears to be a decline for those tasty chicken morsels. I haven’t seen it though, it still seems to be one of the most popular meals for kids when parents go to Fast Food restaurants.Check out this recipe for chicken tenders and make them at home.I have many fond memories making and buying and eating pizza with friends and family. My family used to drive to Little Caesar’s and get a couple of pizzas as well as rent a movie at the next-door movie rental place.I have definitely eaten my fair share of pizza over the years. Pizza is actually one of my favorite foods when I feel like splurging.According to this article, Americans eat a whopping 3 Billion pizzas per year with the average American eating around 40 pizzas a year.What is the most popular pizza topping? Surprise, surprise, the most popular pizza topping is pepperoni.I love homemade pizza. Check out this recipe for amazing homemade pizza dough. And this recipe for homemade pizza sauce."
+       
+    },
+    {
+        "_id": "444488888888",
+        "service_id": "44",
+        "title": "Pizza",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/finished-pizza.jpg",
+        "price": "300",
+        "description": "Up next is the wildly popular food, pizza. I can see why it ranks number 5 of the top 10 most popular foods in America."
+      
+    },
+    {
+        "_id": "555588888888",
+        "service_id": "55",
+        "title": "French Fries",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2019/09/How-to-make-french-fries-Easy-Amazing-French-Fries-Recipe.jpg",
+        "price": "18",
+        "description": "Time for the 3rd most popular foods in America, French Fries. I couldn’t agree more, I absolutely love French fries. I loved them as a kid and still love them.Honestly, anything potato is awesome, but French Fries are the best potato dish in my opinion. Nearly every fast food restaurant and many diners/restaurants serve a version of French fries.According to this article, Americans eat almost 30 pounds of French Fries each year! And Belgians eat even more, 1/3rd more. Which restaurant in America sells the most? You guessed it, McDonald’s.They actually use roughly 7% of ALL the potatoes grown in the US for their French Fries. 1/3 of all the French Fries sold in the US come from McDonald’s.I can see why, their fries are definitely delicious. Not my favorite though. I actually prefer fries from places like Five Guys. Want to learn how to make amazing crispy French Fries at home? This is awesome homemade French Fry recipe."
+       
+    },
+    {
+        "_id": "666688888888",
+        "service_id": "66",
+        "title": "Hamburgers",
+        "img": "https://www.inthekitchenwithmatt.com/wp-content/uploads/2020/06/Juicy-Hamburger-Recipe.jpg",
+        "price": "27",
+        "description": "Oh yes, Hamburgers are the number 1 most popular foods in America. Surprised? I am not. I am slightly addicted to eating hamburgers. If I had it my way, I would probably eat one every day, haha.Homemade burgers are my preference, but I definitely don’t mind fast food burgers, especially Wendy’s and Five Guys, which are two of my favorite places to go. Sorry McDonalds! And it is hard to be a good sit down burger joint when you have the time, and are willing to pay extra.Many households in the US grill burgers and hot dogs all year around and especially on Holidays like Memorial Day, 4th of July, and Labor Day.According to Yahoo and the USDA, Americans eat an average of 2.4 hamburgers a day, or 50 Billion burgers each year. I definitely don’t eat that many, but apparantley many Americans do.If making them at home you have got to try this juicy hamburger recipe. And why not make these homemade hamburger buns to go with the patties?"
+        
+    }
+]
